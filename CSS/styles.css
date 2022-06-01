@@ -2,11 +2,11 @@
     display: none;
 }
 
-p {
+.clickable {
     cursor: pointer;
     color: red;
 }
 
-p:hover {
+.clickable:hover {
     text-decoration :underline;
 }
